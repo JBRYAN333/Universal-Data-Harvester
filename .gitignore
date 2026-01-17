@@ -1,0 +1,15 @@
+# Ambientes Virtuais e Cache
+nsa_env/
+__pycache__/
+*.py[cod]
+
+# Logs e Dados
+*.log
+INVESTIGACAO_DATA/
+chrome_profile/
+chrome_profile_stealth/
+
+# IDE e Sistema
+.vscode/
+.idea/
+.DS_Store
