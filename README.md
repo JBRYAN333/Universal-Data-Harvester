@@ -50,4 +50,5 @@ Diferente de scripts simples que só funcionam em links diretos, esta ferramenta
 Ferramenta desenvolvida para automação de tarefas repetitivas em dados públicos ou aos quais o usuário possui acesso legítimo.
 
 ---
-**Desenvolvido por [Seu Nome]**
+
+**Desenvolvido por J.B Ryan**
