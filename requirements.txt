@@ -1,0 +1,7 @@
+customtkinter
+selenium
+webdriver-manager
+urllib3
+requests
+packaging
+undetected-chromedriver
